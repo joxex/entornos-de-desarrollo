@@ -1,0 +1,69 @@
+EJERCICIOS ENTORNOS
+
+1. 1.El ciclo de vida del desarrollo de software (en inglés: SDLC – Systems Development Life Cycle) es la estructura que contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de un producto de software, abarcando la vida completa del sistema, desde la definición de los requisitos...
+
+
+2. Las etapas de desarrollo de un software son:
+
+	Análisis: Es la primera de las etapas de desarrollo, corresponde a escuchar las peticiones para el sistema. Se planifica la forma de llevar las ideas a un software, aquí no debe ser un impedimento el lenguaje de programación ni la infraestructura. Desde el consultor de sistemas se proponen mejoras que a veces el usuario ignora para mejorar el programa.
+
+
+	Diseño:  En esta fase es cuando se realiza toda la infraestructura que va a sostener el proyecto. Normalmente hablamos de objetos de base de datos, especialmente las tablas y las relaciones entre ellas. Se preparan todas las funcionalidades necesarias para suplir los requerimientos detectados en el análisis.
+
+
+	Desarrollo: Es el momento del código es independiente del lenguaje de programación, de las metodologías, del estilo del programador, etc. Se pueden presentar mejoras u objeciones sobre el rendimiento del programa. Dentro de las etapas de desarrollo es la más delicada porque cada modificación puede cambiar toda la planificación. 
+
+
+	Análisis y Desarrollo:   A diferencia de las etapas de la idea el programador debe identificar procesos y funciones que se puedan reutilizar. Esto con la intención de llevarlas a una librería para el software. Así mismo dependiendo del lenguaje de programación puede calcular de forma previa el tiempo de desarrollo sobre los requerimientos. 
+
+
+	Producción y Mantenimiento:    Los desarrollos se hacen en ambientes locales, es decir en las máquinas de los desarrolladores. En el análisis se debe dejar en claro que se necesita para que todo funcione correctamente. Muchas veces olvidamos la documentación del programa, este es el momento de realizarla. ¿Porque no antes? Bueno habría que modificar la documentación al tiempo con las pruebas. Ya deben estar disponibles los dominios , redes, servidores...
+
+
+
+
+
+
+
+
+
+
+
+3.El desarrollo en cascada (en inglés, waterfall model) es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez .
+
+4.
+Ventajas
+Inconvenientes
+✔ Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas.
+✘ Por norma general, los proyectos más complejos o de varios niveles no permiten su división en fases de proyecto claramente diferenciadas.
+✔ Buena documentación del proceso de desarrollo a través de unos hitos bien definidos.
+✘ Poco margen para realizar ajustes a lo largo del proyecto debido a un cambio en las exigencias.
+✔ Los costes y la carga de trabajo se pueden estimar al comenzar el proyecto.
+✘El usuario final no se integra en el proceso de producción hasta que no termina la programación.
+✔ Aquellos proyectos que se estructuran en base al modelo en cascada se pueden representar cronológicamente de forma sencilla.
+✘En ocasiones, los fallos solo se detectan una vez finalizado el proceso de de
+
+5.  Por un lado, la verificación consiste en comprobar los requisitos de cada una de las fases. ...Por otro lado, la validación consiste en examinar y comprobar que las especificaciones del software, un desarrollo o proyecto concreto cumplan con los requisitos y/o necesidades del usuario.
+
+6. El modelo prototipos , en Ingeniería de software, pertenece a los modelos de desarrollo evolutivo. ... Este diseño conduce a la construcción de un prototipo , el cual es evaluado por el cliente para una retroalimentación; gracias a esta se refinan los requisitos del software que se desarrollará.
+
+7. Los procesos Ágiles promueven el desarrollo sostenido, se debe mantener un ritmo constante de forma indefinida. La atención continua a la excelencia técnica y al buen diseño mejora la Agilidad. La simplicidad es esencial.
+
+8.Una historia de usuario es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. Las historias de usuario son utilizadas en las metodologías de desarrollo ágiles para la especificación de requisitos (acompañadas de las discusiones con los usuarios y las pruebas de validación). Cada historia de usuario debe ser limitada, esta debería poderse escribir sobre una nota adhesiva pequeña. Dentro de la metodología XP las historias de usuario deben ser escritas por los usuarios. 
+
+
+9.Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
+En Scrum se realizan entregas parciales y regulares del producto final, priorizadas por el beneficio que aportan al receptor del proyecto. Por ello, Scrum está especialmente indicado para proyectos en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son cambiantes o poco definidos, donde la innovación, la competitividad, la flexibilidad y la productividad son fundamentales.
+Scrum también se utiliza para resolver situaciones en que no se está entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacción ante la competencia, cuando la moral de los equipos es baja y la rotación alta, cuando es necesario identificar y solucionar ineficiencias sistemáticamente o cuando se quiere trabajar utilizando un proceso especializado en el desarrollo de producto.
+
+10. Product Backlog
+Contiene todo el trabajo que es necesario para el desarrollo o construcción de nuestro sistema o producto y es responsabilidad del Product Owner. De hecho, es el resultado del trabajo del Product Owner con los diferentes interesados (cliente/s, usuario/s).
+Se trata de un documento vivo que contiene todo el trabajo pendiente que falta por ejecutar, hasta completar el alcance identificado y deseado para el producto, al margen de su grado de refinamiento.
+
+
+Sprint Backlog
+Contiene todo el trabajo que el Equipo de Desarrollo se compromete a llevar a cabo dentro de un Sprint. Este trabajo se pasa del Product Backlog al Sprint Backlog.
+El Sprint Backlog es un artefacto que permite visualizar todo el trabajo incluido en el Sprint en curso y es responsabilidad del Equipo de Desarrollo. Su objetivo es dar transparencia al estado del desarrollo durante el Sprint. Por ese motivo, una de las mejores formas de representarlo es mediante una pizarra Kanban, con columnas por estados, para ver cómo progresa y evoluciona el trabajo.
+
+
+11. product owner, scrum master, equipo de desarrollo.
